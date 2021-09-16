@@ -1,3 +1,3 @@
 # Clima
 
-It's the app designed for watching weather in any region
+It's the app designed for watching weather in any region.
